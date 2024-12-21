@@ -1,0 +1,14 @@
+h1{
+    font-weight: bold;
+    color: green;
+}
+.text-blue{
+    color: blue;
+}
+.text-red{
+    color: red;
+}
+button{
+    background: lightblue;
+    color: white;
+}
